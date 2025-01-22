@@ -1,0 +1,851 @@
+.main body {
+    width: 100%;
+    height: 100%;
+
+}
+.header {
+    width: 100%;
+    height: 120px;
+
+}
+.fa-solid {
+
+    color: red;
+    margin-left: 36%;
+    margin-top: 21px
+
+}
+.button {
+    width: 107px;
+    height: 34px;
+    border-radius: 120px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+}
+.horizontl line {
+    border-color: #efeaea4d
+}
+.sentence {
+    margin-left: 12px;
+}
+.header-left {
+    width: 50%;
+    height: 62px;
+    position: relative;
+    float: left;
+}
+.kfc {
+    margin-left: 129px;
+    margin-top: 38px;
+}
+.menu {
+
+    margin-left: 40px;
+    margin-top: 40px;
+    position: absolute;
+}
+.deals {
+    margin-left: 120px;
+    margin-top: 41px;
+    position: absolute;
+}
+.header-right {
+    width: 50%;
+    float: left;
+    position: relative;
+
+}
+.login {
+    margin-left: 436px;
+    margin-top: 37px;
+}
+.sign-in {
+    margin-left: 19px;
+    margin-top: 37px;
+    position: absolute;
+    font-size: 15px
+}
+.vertical-line {
+    background-color: #0000003d;
+    width: 1px;
+    height: 26px;
+    margin-left: 540px;
+    margin-top: -26px;
+}
+#ruppe {
+   
+    margin-left: 558px;
+    margin-top: -22px;
+    position: absolute;
+   font-size: 10px
+
+}
+.cup {
+    width: 48px;
+    margin-left: 583px;
+    margin-top: -40px;
+    position: absolute;
+}
+.cuptext {
+    margin-top: -24px;
+    margin-left: 603px;
+    z-index: 1;
+    position: absolute;
+}
+.nav {
+    width: 100%;
+    height: 69px;
+    background-color: black;
+    margin-top: 40px;
+    position: relative;
+    padding-left: 120px;
+    margin-left: -91px;
+
+}
+.navtext {
+    margin-left: 476px;
+    margin-top: 24px;
+    position: absolute;
+    color: white;
+
+}
+.start-order {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 899px;
+    width: 160px;
+    height: 49px;
+    border-radius: 26px;
+    background-color: red;
+    color: white;
+}
+
+.browse {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 205px;
+    font-size: 28px;
+    font-family: "National 2 Condensed";
+    font-style: normal;
+    font-weight: 700;
+
+
+}
+.browse-horizontal-line {
+   
+    width: 641px;
+    height: 2px;
+    background-color: #c5b3b345;
+    margin-top: 120px;
+    margin-left: 718px;
+    position: absolute;
+}
+.image-container {
+    width: 100%;
+    height: 469px;
+    float: left;
+    margin-top: 171px;
+    position: relative;
+
+}
+.image {
+    width: 586px;
+    height: 442px;
+    margin-left: 201px;
+    margin-top: 46px;
+}
+.image2 {
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 20px;
+    margin-top: 47px;
+    position: absolute;
+}
+.image3 {
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 315px;
+    margin-top: 47px;
+    position: absolute;
+}
+.image4 {
+    margin-top: 339px;
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 16px;
+    position: absolute;
+}
+.text {
+    width: 589px;
+    height: 128px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 197px;
+    margin-top: 18px;
+    position: relative;
+    
+}
+.burger-fest {
+    margin-left: 99px;
+    margin-top: 51px;
+    position: absolute;
+    font-size: 23px;
+}
+.text2 {
+    width: 272px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 20px;
+    margin-top: -218px;
+    position: relative;
+    
+}
+.match-day {
+    margin-left: 65px;
+    margin-top: 16px;
+    position: absolute;
+    font-size: 15px;
+}
+.text3 {
+    width: 272px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 315px;
+    margin-top: -224px;
+    position: relative;
+    
+}
+.lunch-speacial {
+    margin-left: 42px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+}
+.text4 {
+    width: 272px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 18px;
+    margin-top: 73px;
+    position: relative;
+    
+}
+.box-meals {
+    margin-left: 96px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+}
+.image5{
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 1099px;
+    margin-top: -447px;
+    float: left;
+}
+.image6{
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 209px;
+    margin-top: -143px;
+    float: left;
+}
+.image7{
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 37px;
+    margin-top: -143px;
+    float: left;
+}
+.image8 {
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 19px;
+    margin-top: -143px;
+    float: left;
+
+}
+.image9 {
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 18px;
+    margin-top: -143px;
+    float: left;
+
+}
+.image10 {
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 211px;
+    margin-top: 84px;
+    float: left;
+
+}
+.image11 {
+    width: 17.8vw;
+    height: 13.18519vw;
+    margin-left: 28px;
+    margin-top: 84px;
+    float: left;
+
+}
+.image12{
+    width: 7.8vw;
+    height: 10.18519vw;
+    margin-left: 1038px;
+    margin-top: -174px;
+    float: left;
+}
+.text5 {
+    width: 272px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 1098px;
+    margin-top: -714px;
+    position: relative;
+    
+}
+.burger {
+    margin-left: 101px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+}
+.text6 {
+    width: 272px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 210px;
+    margin-top: -411px;
+    position: relative;
+    
+}
+.chicken-buckets {
+    margin-left: 66px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+}
+.text7 {
+    width: 274px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 516px;
+    margin-top: -411px;
+    position: relative;
+}
+.rice-bowls {
+    margin-left: 92px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+}
+.text8 {
+    width: 274px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 809px;
+    margin-top: -411px;
+    position: relative;
+}
+.value-snackers{
+    margin-left: 67px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+
+}
+.text9 {
+    width: 274px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 1097px;
+    margin-top: -411px;
+    position: relative;
+
+}
+.chicken-rolls{
+    margin-left: 76px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+
+}
+.text10 {
+    width: 273px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 211px;
+    margin-top: -125px;
+    position: relative;
+
+}
+
+.snacks {
+    margin-left: 103px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+}
+.beverages {
+    margin-left: 103px;
+    margin-top: 22px;
+    position: absolute;
+    font-size: 15px;
+    
+}
+.text11 {
+    width: 273px;
+    height: 65px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 511px;
+    margin-top: -125px;
+    position: relative;
+
+}
+.text12 {
+    width: 568px;
+    height: 267px;
+    background-color: #b1b18e17;
+    float: left;
+    margin-left: 803px;
+    margin-top: -327px;
+    position: relative;
+}
+.view-all {
+    margin-left: 255px;
+    margin-top: 180px;
+    position: absolute;
+    font-size: 11px;
+}
+.arrow {
+    margin-left: 340px;
+    margin-top: 175px;
+    position: absolute;
+    font-size: 17px;
+}
+.article {
+    width: 100%;
+    float: left;
+    height: 1015px;
+    margin-top: -24px;
+    position: relative;
+}
+.rect1 {
+    margin-left: 195px;
+
+}
+.rect2 {
+    margin-left: 10px;
+}
+.rect3 {
+    margin-left: 9px;
+}
+.Save-more {
+    font-size: 40px;
+    color: black;
+    margin-top: 70px;
+    position: absolute;
+    margin-left: -85px;
+}
+.view-all-deals {
+    color: white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 1182px;
+    font-size: 14px;
+
+}
+.arrow2 {
+    color: white;
+    position: absolute;
+    margin-left: 1004px;
+    margin-top: 142px;
+
+}
+.offer {
+   
+    display: flex;
+    width: 100%;
+    height: 150px;
+}
+.free-zinger{
+    width: 313px;
+    height: 227px;
+    margin-left: 183px;
+    margin-top: 120px;
+}
+.hot-crispy {
+    width: 313px;
+    height: 227px;
+    margin-left: 10px;
+    margin-top: 120px;
+}
+.upto{
+    width: 313px;
+    height: 227px;
+    margin-left: 10px;
+    margin-top: 120px;
+}
+.flat {
+    width: 313px;
+    height: 227px;
+    margin-left: 10px;
+    margin-top: 120px;
+}
+.offer-text {
+    width: 100%;
+    height: 270px;
+    position: relative;
+    
+
+
+}
+.free-zinger-box {
+    width: 314px;
+    height: 246px;
+    background-color: #e2e0d742;
+    margin-left: 182px;
+    margin-top: -121px;
+    box-shadow: 2px 10px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+.free-zinger-headtext {
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 18px;
+
+}
+.free-zinger-headtext2 {
+    margin-top: 87px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 14px;
+
+
+}
+.free-zinger-headtext3 {
+    margin-top: 8px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 14px;
+}
+.free-zinger-view-details {
+
+    margin-top: 45px;
+    margin-left: 91px;
+}
+
+.apply-offer{
+    margin-top: 15px;
+    width: 178px;
+    height: 52px;
+    border-radius: 88px;
+    margin-left: 39px;
+    background-color: black;
+    color: white;
+
+}
+.hot-crispy-box {
+    width: 314px;
+    height: 246px;
+    background-color: #e2e0d742;
+    margin-left: 328px;
+    margin-top: 116px;
+    box-shadow: 2px 10px 15px rgba(0, 0, 0, 0.3);
+    position: relative;   
+}
+.hot-crispy-headtext {
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 47px;
+    font-size: 18px;
+}
+.hot-crispy-headtext2 {
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 18px;
+
+}
+.hot-crispy-headtext3 {
+
+    margin-top: 87px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 14px;
+}
+.hot-crispy-headtext4 {
+    margin-top: 113px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 14px;   
+}
+.hot-crispy-view-details {
+    position: absolute;
+    top: 149px;
+    left: 98px;
+}
+
+.hot-crispy-apply-offer{
+   
+    margin-top: 180px;
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    width: 178px;
+    height: 52px;
+    border-radius: 88px;
+}
+.upto-box {
+    width: 314px;
+    height: 246px;
+    background-color: #e2e0d742;
+    left: 656px;
+    top: -247px;
+    box-shadow: 2px 10px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+.upto-headtext {
+    text-transform: uppercase;
+    position: absolute;
+    top: 24px; 
+   left: 14px; 
+    font-size: 18px;
+}
+
+.upto-headtext2 {
+    text-transform: uppercase;
+    position: absolute;
+   top: 50px;
+    left: 30px; 
+    font-size: 18px;
+}
+
+.upto-headtext3 {
+    position: absolute;
+    top: 90px;
+   left: 689px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.upto-headtext4 {
+    position: absolute;
+    top: 26px;
+    left: 3px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+.upto-view-details {
+    position: absolute;
+    top: 63px;
+    left: 71px;
+}
+.upto-apply-offer{
+   
+    top: 90px;
+    left: 12px;
+    background-color: black;
+    color: white;
+    width: 178px;
+    height: 52px;
+    border-radius: 88px;
+    position: absolute;
+}
+.flat-box {
+    width: 314px;
+    height: 246px;
+    background-color: #e2e0d742;
+    left: 982px;
+    top: -494px;
+    box-shadow: 2px 10px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+.flat-headtext {
+    text-transform: uppercase;
+    position: absolute;
+    top: 24px; 
+   left: 14px; 
+    font-size: 18px;
+
+}
+.flat-headtext2 {
+    text-transform: uppercase;
+    position: absolute;
+   top: 52px;
+    left: 30px; 
+    font-size: 18px;
+
+}
+.flat-headtext3 {
+    position: absolute;
+    top: 93px;
+    left: 56px;
+    font-size: 14px;
+    white-space: nowrap;
+
+}
+.flat-headtext4 {
+    position: absolute;
+    top: 119px;
+    left: 116px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+.flat-view-details {
+    position: absolute;
+    top: 155px;
+    left: 117px;
+}
+.flat-apply-offer {
+  
+    top: 183px;
+    left: 70px;
+    background-color: black;
+    color: white;
+    width: 178px;
+    height: 52px;
+    border-radius: 88px;
+    position: absolute;
+}
+.footer {
+    background-color: #000000d6;
+    width: 100%;
+    height: 493px;
+    margin-top: 42px;
+    position: relative;
+    padding-left: 93px;
+    margin-left: -85px;
+
+}
+
+.kfc-logo {
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    margin-top: 103px;
+    margin-left: 219px
+}
+.footer-links {
+    color: white;
+    list-style: none;
+    left: 314px;
+    position: relative;
+    top: 93px;
+    font-size: 14px;
+}
+.footer-links li {
+    margin-bottom: 15px; 
+}
+.footer-links2 {
+    color: white;
+    list-style: none;
+    left: 470px;
+    position: relative;
+    top: -129px;
+    font-size: 14px;
+
+}
+.footer-links2 li {
+    margin-bottom: 15px; 
+}
+.footer-links3 {
+    color: white;
+    list-style: none;
+    left: 632px;
+    position: relative;
+    top: -320px;
+    font-size: 14px;
+}
+.footer-links3 li {
+    margin-bottom: 15px; 
+}
+.footer-links4 {
+    color: white;
+    list-style: none;
+    left: 783px;
+    position: relative;
+    top: -512px;
+    font-size: 14px;
+}
+.footer-links4 li {
+    margin-bottom: 15px; 
+}
+.location2{
+    margin-top: -668px;
+    position: absolute;
+    margin-left: 1020px;
+
+}
+.find-kfc {
+   
+    color: white;
+    position: absolute;
+    margin-top: -668px;
+    margin-left: 1051px;
+    font-size: 13px;
+}
+.google-pay{
+    margin-top: -676px;
+    margin-left: 1196px;
+    position: absolute;
+    width: 141px;
+    height: 48px;
+    border-radius: 3px;
+}
+.apple {
+    margin-top: -606px;
+    margin-left: 1196px;
+    position: absolute;
+    width: 141px;
+    height: 48px;
+    border-radius: 3px;
+
+}
+.copy-right  {
+    position: absolute;
+    margin-top: -340px;
+    margin-left: 479px;
+    font-size: 12px;
+    color: white;
+}
+.insta {
+
+    height: 32px;
+    width: 32px;
+    margin-top: -349px;
+    margin-left: 1206px;
+    position: absolute;
+}
+.facebook {
+    height: 32px;
+    width: 32px;
+    margin-top: -349px;
+    margin-left: 1253px;
+    position: absolute;
+}
+.twitter {
+    height: 32px;
+    width: 32px;
+    margin-top: -349px;
+    margin-left: 1305px;
+    position: absolute;
+}
+
